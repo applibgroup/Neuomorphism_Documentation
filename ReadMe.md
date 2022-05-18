@@ -28,7 +28,7 @@ recycle bin icon on the desktop screen and the dial icon on mobile phones. Howev
   <li>It accelerates the process of conceptualizing, building, testing, and iterating new screens.</li>
 </ul>
 
-<p> This is the library reference <a href = "https://github.com/applibgroup/Neumorphism">Here</a> </p>
+<p> This is the library reference <a href = "https://gitee.com/openharmony-sig/Neumorphism">Here</a> </p>
 
 Similarly we can implement the below list of components.
 
@@ -40,8 +40,8 @@ Similarly we can implement the below list of components.
 | <b><a href="https://gitee.com/openharmony-sig/Checkbox">checkbox </a> </b>    | <img src="assets/checkbox.PNG" width="" height=""/>  | Checkbox is the simple checkbox option with Neumorphism effect and  more info can be found <a href="https://gitee.com/openharmony-sig/Checkbox">here.</a>
 | <b><a href="https://gitee.com/openharmony-sig/Dropdown">dropdown</a> </b>    | <img src="assets/dropdown.PNG" width="" height=""/>  |Dropdown with Neumorphism effect with simple list items and  more info can be found <a href="https://gitee.com/openharmony-sig/Dropdown">here.</a>
 | <b><a href= "https://gitee.com/openharmony-sig/Form">form </a>   </b>     | <img src="assets/form.PNG" width="" height=""/>  |Form with Neumorphism effect is a unique component with text fields which is the neuinput component and more info can be found <a href="https://gitee.com/openharmony-sig/Form">here.</a>
-| <b><a href="https://github.com/applibgroup/form/blob/main/neumorph_form/input/input.hml">input</a>  </b>      | <img src="assets/input.PNG" width="" height=""/>  |Input with Neumorphism effect is a basic component for building forms with properties like type, maxlength and placeholder more info can be found <a href="https://github.com/applibgroup/form/blob/main/neumorph_form/input/input.hml">here.</a> 
-| <b><a href="https://github.com/applibgroup/form/tree/main/neumorph_form/label">label</a> </b>       | <img src="assets/label.PNG" width="" height=""/>  |Label can be used with Input in which you can add the icon and the text, more info can be found <a href="https://github.com/applibgroup/form/tree/main/neumorph_form/label">here.</a> 
+| <b><a href="https://gitee.com/openharmony-sig/Neumorphism/tree/master#input">input</a>  </b>      | <img src="assets/input.PNG" width="" height=""/>  |Input with Neumorphism effect is a basic component for building forms with properties like type, maxlength and placeholder more info can be found <a href="https://gitee.com/openharmony-sig/Neumorphism/tree/master#input">here.</a> 
+| <b><a href="https://gitee.com/openharmony-sig/Neumorphism/tree/master#label">label</a> </b>       | <img src="assets/label.PNG" width="" height=""/>  |Label can be used with Input in which you can add the icon and the text, more info can be found <a href="https://gitee.com/openharmony-sig/Neumorphism/tree/master#label">here.</a> 
 | <b><a href="https://gitee.com/openharmony-sig/NavBar">navbar</a>  </b>     | <img src="assets/navbar.PNG" width="" height=""/>  |Navbar is a very interesting  component that will help you to display 3 icon format with slots, more info can be found <a href="https://gitee.com/openharmony-sig/NavBar">here.</a> 
 | <b><a href="https://gitee.com/openharmony-sig/pagination">pagination</a> </b>  | <img src="assets/pagination.PNG" width="" height="" />  |Pagination with Neumorphism style and every page is a button , more info can be found <a href="https://gitee.com/openharmony-sig/pagination">here.</a>        
 | <b><a href="https://gitee.com/openharmony-sig/progress">progress </a> </b>   | <img src="assets/progress.PNG" width="" height="" />  |Progress which indicates the progress of particular action item with progress properties and color can provided to highlight the indicator, more info can be found <a href="https://gitee.com/openharmony-sig/progress">here.</a> 
@@ -51,7 +51,7 @@ Similarly we can implement the below list of components.
 <hr />
 <p> Let’s go through some of the uses cases and there implementation using Neumorphism library.<p>
 <h3>Smart Watch</h3>
-<p> The complete uses cases code can be found <a href="https://github.com/applibgroup/Neumorphism_Smart_Watch">here.</a></p>
+<p> The complete uses cases code can be found <a href="https://gitee.com/openharmony-sig/Neumorphism_Smart_Watch">here.</a></p>
 <p> The below uses cases is a simple Smartwatch implemented using the Neumorphism library and every component displayed in the smartwatch are the neumorphic component like listed below.</p>
 <ul>
   <li>neutheme</li>
@@ -88,8 +88,8 @@ Usage:
 <img src="assets/neucard.PNG" />
  <hr/>
 <h3>Smart Home Dark and Light Theme</h3>
-<p> The complete uses case code can be found <a href="https://github.com/applibgroup/Neumorphism_Smarthome_Darkmode">here.</a></p>
-<p> The below uses case is a simple Living Room Design in <a href="https://github.com/applibgroup/Neumorphism_Smarthome_Darkmode">Dark mode </a> and <a href="https://github.com/applibgroup/Neumorphism_Smarthome_Lightmode">Light mode</a> and it is implemented using the Neumorphism library and every component displayed in the Living Room are the neumorphic component like listed below.</p>
+<p> The complete uses case code can be found <a href="https://gitee.com/openharmony-sig/Neumorphism_Smarthome_Darkmode">here.</a></p>
+<p> The below uses case is a simple Living Room Design in <a href="https://gitee.com/openharmony-sig/Neumorphism_Smarthome_Darkmode">Dark mode </a> and <a href="https://gitee.com/openharmony-sig/Neumorphism_Smarthome_Lightmode">Light mode</a> and it is implemented using the Neumorphism library and every component displayed in the Living Room are the neumorphic component like listed below.</p>
 <ul>
   <li>neutheme</li>
   <li>neucard </li>
@@ -142,8 +142,8 @@ Usage:
  <hr/>
  
 <h3>Smart Home Light and Dark Theme Phone Mode</h3>
-<p> The complete use case code can be found <a href="https://github.com/applibgroup/Neumorphism_Smarthome_Lightmode">here.</a></p>
-<p> Like the above Living room design we have the same Design in phone mode for <a href="https://github.com/applibgroup/Neumorphism_Smarthome_Lightmode"> Light mode </a> and <a href="https://github.com/applibgroup/Neumorphism_Smarthome_Darkmode">Dark Mode</a> and it is implemented using the Neumorphism library and every component displayed in the Living Room are the neumorphic components.</p>
+<p> The complete use case code can be found <a href="https://gitee.com/openharmony-sig/Neumorphism_Living-Room_Design">here.</a></p>
+<p> Like the above Living room design we have the same Design in phone mode for <a href="https://gitee.com/openharmony-sig/Neumorphism_Living-Room_Design"> Light mode </a> and <a href="https://gitee.com/openharmony-sig/Neumorphism_Living-Room_Design">Dark Mode</a> and it is implemented using the Neumorphism library and every component displayed in the Living Room are the neumorphic components.</p>
 <br/>
 <br/>
   <p float="left" >
@@ -157,7 +157,7 @@ Usage:
 Alert components use to notify user of information
 Lets see how to create the alert component in HarmonyOS.
 
-1. Import: the node component and you can refer that from library <a href ="https://github.com/applibgroup/Alert/blob/main/neumorph_alert/alert/alert.hml"> here </a> as shown below. 
+1. Import: the node component and you can refer that from library <a href ="https://gitee.com/openharmony-sig/Alert"> here </a> as shown below. 
 
 ```html
 <element name='neualert' src='hmos-neumorphism/alert/alert.hml'></element>
@@ -190,10 +190,10 @@ Avatar components use to notify user of information
 
 Let's see how to create the Avatar component in HarmonyOS.
 
-1. Import: the node component and you can refer that from library <a href ="https://github.com/applibgroup/Card/blob/main/neumorph_card/avatar/avatar.hml"> here </a> as shown below. 
+1. Import: the node component and you can refer that from library <a href ="https://gitee.com/openharmony-sig/Card"> here </a> as shown below. 
 
 ```html
-<element name='neuavatar' src='../../../../../../avatar.hml'></element>
+<element name='neuavatar' src='hmos-neumorphism/avatar/avatar.hml'></element>
 ```
 
 2. Now we need use the tag named "neuavatar" and define the parameters like icon shown below.
@@ -220,7 +220,7 @@ Button components use to notify user of information
 
 Let's see how to create the button component in HarmonyOS.
 
-1. Import: the node component and you can refer that from library <a href ="https://github.com/applibgroup/Buttons/blob/main/neumorph_buttons/button/button.hml"> here </a> as shown below. 
+1. Import: the node component and you can refer that from library <a href ="https://gitee.com/openharmony-sig/Buttons"> here </a> as shown below. 
 
 ```html
 <element name='neubutton' src='hmos-neumorphism/buttons/button.hml'></element>
@@ -256,7 +256,7 @@ Buttons components use to notify user of information
 
 Let's see how to create the buttons component in HarmonyOS.
 
-1. Import: the node component and you can refer that from library <a href ="https://github.com/applibgroup/Buttons/blob/main/neumorph_buttons/buttons/buttons.hml"> here </a> as shown below. 
+1. Import: the node component and you can refer that from library <a href ="https://gitee.com/openharmony-sig/Buttons"> here </a> as shown below. 
 
 ```html
 <element name='neubuttons' src='hmos-neumorphism/buttons/buttons.hml'></element>
@@ -292,7 +292,7 @@ That's it by doing this we will get the below Neumorphic buttons design.
 # Card
 Now let's how to implement a card design.
 
-1. Import: the node component and you can refer that from library <a href ="https://github.com/applibgroup/Card/blob/main/neumorph_card/card/card.hml"> here </a> as shown below. 
+1. Import: the node component and you can refer that from library <a href ="https://gitee.com/openharmony-sig/Card"> here </a> as shown below. 
 
 Import:
 ```html
@@ -325,7 +325,7 @@ Checkbox components use to notify user of information
 
 Let's see how to create the checkbox component in HarmonyOS.
 
-1. Import: the node component and you can refer that from library <a href ="https://github.com/applibgroup/Checkbox/blob/main/neumorph_checkbox/checkbox/checkbox.hml"> here </a> as shown below. 
+1. Import: the node component and you can refer that from library <a href ="https://gitee.com/openharmony-sig/Checkbox"> here </a> as shown below. 
 
 ```html
 <element name='neucheckbox' src='hmos-neumorphism/checkbox/checkbox.hml'></element>
@@ -356,7 +356,7 @@ Dropdown components use to notify user of information
 
 Let's see how to create the dropdown component in HarmonyOS.
 
-1. Import: the node component and you can refer that from library <a href ="https://github.com/applibgroup/Neumorphism/tree/main/entry/src/main/js/default/pages/node_modules/hmos-neumorphism/dropdown"> here </a> as shown below. 
+1. Import: the node component and you can refer that from library <a href ="https://gitee.com/openharmony-sig/Dropdown/"> here </a> as shown below. 
 
 ```html
 <element name='neudropdown' src='hmos-neumorphism/dropdown/dropdown.hml'></element>
@@ -402,7 +402,7 @@ Form components use to notify user of information
 
 Let's see how to create the form component in HarmonyOS.
 
-1. Import: the node component and you can refer that from library <a href ="https://github.com/applibgroup/form/blob/main/neumorph_form/form/form.hml"> here </a> as shown below. 
+1. Import: the node component and you can refer that from library <a href ="https://gitee.com/openharmony-sig/Form"> here </a> as shown below. 
 
 ```html
 <element name='neuform' src='hmos-neumorphism/form/form.hml'></element>
@@ -441,10 +441,10 @@ Input components use to notify user of information
 
 Let's see how to create the input component in HarmonyOS.
 
-1. Import: the node component and you can refer that from library <a href ="https://github.com/applibgroup/form/blob/main/neumorph_form/input/input.hml"> here </a> as shown below. 
+1. Import: the node component and you can refer that from library <a href ="https://gitee.com/openharmony-sig/Neumorphism/tree/master#input"> here </a> as shown below. 
 
 ```html
-<element name='neualert' src='../../../../../../input.hml'></element>
+<element name='neualert' src='hmos-neumorphism/input/input.hml'></element>
 ```
 2. Now we need use the tag named "neualert" and define the parameters like icon, type, placeholder as shown below.
   
@@ -472,10 +472,10 @@ Label components use to notify user of information
 
 Let's see how to create the label component in HarmonyOS.
 
-1. Import: the node component and you can refer that from library <a href ="https://github.com/applibgroup/form/blob/main/neumorph_form/label/label.hml"> here </a> as shown below. 
+1. Import: the node component and you can refer that from library <a href ="https://gitee.com/openharmony-sig/Neumorphism/tree/master#label"> here </a> as shown below. 
 
 ```html
-<element name='neulabel' src='../../../../../../label.hml'></element>
+<element name='neulabel' src='hmos-neumorphism/label/label.hml'></element>
 ```
 
 2. Now we need use the tag named "neulabel" and define the parameters like icon and text as shown below.
@@ -503,7 +503,7 @@ Navbar components use to notify user of information
 
 Let's see how to create the navbar component in HarmonyOS.
 
-1. Import: the node component and you can refer that from library <a href ="https://github.com/applibgroup/Navbar/blob/main/neumorph_navbar/navbar/navbar.hml"> here </a> as shown below. 
+1. Import: the node component and you can refer that from library <a href ="https://gitee.com/openharmony-sig/Neumorphism/tree/master#navbar"> here </a> as shown below. 
 
 ```html
 <element name='neunavbar' src='hmos-neumorphism/navbar/navbar.hml'></element>
@@ -547,7 +547,7 @@ Pagination components use to notify user of information
 
 Let's see how to create the pagination component in HarmonyOS.
 
-1. Import: the node component and you can refer that from library <a href ="https://github.com/applibgroup/pagination/blob/main/neumorph_pagination/pagination/pagination.hml"> here </a> as shown below. 
+1. Import: the node component and you can refer that from library <a href ="https://gitee.com/openharmony-sig/Neumorphism/tree/master#pagination"> here </a> as shown below. 
 
 ```html
 <element name='neupagination' src='hmos-neumorphism/pagination/pagination.hml'></element>
@@ -623,7 +623,7 @@ Radio components use to notify user of information
 
 Let's see how to create the radio component in HarmonyOS.
 
-1. Import: the node component and you can refer that from library <a href ="https://github.com/applibgroup/Checkbox/blob/main/neumorph_checkbox/radio/radio.hml"> here </a> as shown below. 
+1. Import: the node component and you can refer that from library <a href ="https://gitee.com/openharmony-sig/Neumorphism/tree/master#radio"> here </a> as shown below. 
 
 ```html
 <element name='neuradio' src='hmos-neumorphism/radio/radio.hml'></element>
@@ -655,7 +655,7 @@ Switcher components use to notify user of information
 
 Let's see how to create the Switcher component in HarmonyOS.
 
-1. Import: the node component and you can refer that from library <a href ="https://github.com/applibgroup/Checkbox/blob/main/neumorph_checkbox/switcher/switcher.hml"> here </a> as shown below. 
+1. Import: the node component and you can refer that from library <a href ="https://gitee.com/openharmony-sig/Neumorphism/tree/master#switcher"> here </a> as shown below. 
 
 ```html
 <element name='neuswitcher' src='hmos-neumorphism/switcher/switcher.hml'></element>
@@ -683,5 +683,5 @@ That's it by doing this we will get the below Neumorphic Switcher design.
 <hr>
 
 
-<p> You can find the component implementation on HarmonyOS <a href ="https://github.com/applibgroup/Neumorphism"> here.</a>
+<p> You can find the component implementation on HarmonyOS <a href ="https://gitee.com/openharmony-sig/Neumorphism"> here.</a>
 <p> If you haven't tried this unique style of designing then give it a try. With that being said, designers have been coming up with new design ideas that expand on the concept of Neumorphism every day. I am excited to see the interesting components that you can create.</p>
